@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kanhaiya88628/web-app-assignment.git/static/css/main.a058a367.css",
+    "main.js": "/kanhaiya88628/web-app-assignment.git/static/js/main.0ef0ba8f.js",
+    "index.html": "/kanhaiya88628/web-app-assignment.git/index.html",
+    "main.a058a367.css.map": "/kanhaiya88628/web-app-assignment.git/static/css/main.a058a367.css.map",
+    "main.0ef0ba8f.js.map": "/kanhaiya88628/web-app-assignment.git/static/js/main.0ef0ba8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a058a367.css",
+    "static/js/main.0ef0ba8f.js"
+  ]
+}
